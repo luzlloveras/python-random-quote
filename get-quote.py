@@ -12,5 +12,9 @@ def primary():
 
     print(quotes[rnd])
 
+    print(quotes[11])
+
+    print(quotes[5])
+
 if __name__== "__primary__":
   main()
